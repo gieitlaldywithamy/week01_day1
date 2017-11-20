@@ -1,0 +1,3 @@
+gitignore is used to specify what files can be ignored in a git repo.
+For example, if one is using an IDE that creates configuration files, other developers don't care about these and so you would include them in a gitignore file so they are ignored.
+This means when you run git status, the result will look pretty and not cluttered up by files you don't want to upload to git.
